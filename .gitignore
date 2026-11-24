@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# Video datasets
+data/
+*.mp4
+*.avi
+*.mov
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+*.log
+.DS_Store
